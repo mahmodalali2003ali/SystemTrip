@@ -1,0 +1,17 @@
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\DataAcecess.deps.json
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\DataAcecess.dll
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\DataAcecess.pdb
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.AssemblyInfoInputs.cache
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.AssemblyInfo.cs
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.csproj.CoreCompileInputs.cache
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.dll
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\refint\DataAcecess.dll
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.pdb
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\ref\DataAcecess.dll
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\Consts.dll
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\Model.dll
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\Model.pdb
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\bin\Debug\net8.0\Consts.pdb
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcecess.csproj.AssemblyReference.cache
+C:\Users\ESC\Desktop\SysTrip\DataAcecess\obj\Debug\net8.0\DataAcec.648BA950.Up2Date

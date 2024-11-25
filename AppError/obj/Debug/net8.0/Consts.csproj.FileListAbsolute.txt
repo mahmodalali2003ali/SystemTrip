@@ -1,0 +1,11 @@
+C:\Users\ESC\Desktop\SysTrip\AppError\bin\Debug\net8.0\Consts.deps.json
+C:\Users\ESC\Desktop\SysTrip\AppError\bin\Debug\net8.0\Consts.dll
+C:\Users\ESC\Desktop\SysTrip\AppError\bin\Debug\net8.0\Consts.pdb
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\Consts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\Consts.AssemblyInfoInputs.cache
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\Consts.AssemblyInfo.cs
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\Consts.csproj.CoreCompileInputs.cache
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\Consts.dll
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\refint\Consts.dll
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\Consts.pdb
+C:\Users\ESC\Desktop\SysTrip\AppError\obj\Debug\net8.0\ref\Consts.dll
